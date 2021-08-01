@@ -1,3 +1,4 @@
+// Author: Josemar Simão
 // Reference:
 //              https://www.learnopencv.com/object-tracking-using-opencv-cpp-python/
 ///             https://docs.opencv.org/4.3.0/d2/d0a/tutorial_introduction_to_tracker.html

@@ -7,8 +7,8 @@
 		<Option compiler="gcc" />
 		<Build>
 			<Target title="Debug">
-				<Option output="~/projects/Tracker/bin/Debug/Tracker" prefix_auto="1" extension_auto="1" />
-				<Option object_output="~/projects/Tracker/obj/Debug/" />
+				<Option output="~/PROJECTS/tracker/bin/Debug/tracker" prefix_auto="1" extension_auto="1" />
+				<Option object_output="~/PROJECTS/tracker/obj/Debug/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
 				<Compiler>
@@ -71,8 +71,8 @@
 				</Linker>
 			</Target>
 			<Target title="Release">
-				<Option output="~/projects/Tracker/bin/Release/Tracker" prefix_auto="1" extension_auto="1" />
-				<Option object_output="~/projects/Tracker/obj/Release/" />
+				<Option output="~/PROJECTS/tracker/bin/Release/tracker" prefix_auto="1" extension_auto="1" />
+				<Option object_output="~/PROJECTS/tracker/obj/Release/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
 				<Compiler>
@@ -140,10 +140,10 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="../basecode/kbhit.c">
+		<Unit filename="../kbhit/kbhit.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="../basecode/kbhit.h" />
+		<Unit filename="../kbhit/kbhit.h" />
 		<Unit filename="src/tracker.cpp" />
 		<Extensions />
 	</Project>
