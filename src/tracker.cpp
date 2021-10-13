@@ -4,7 +4,7 @@
 ///             https://docs.opencv.org/4.3.0/d2/d0a/tutorial_introduction_to_tracker.html
 
 
-
+// teste de alteração
 
 #include <opencv2/opencv.hpp>
 #include <opencv2/tracking.hpp>
@@ -32,7 +32,7 @@ char fn[1024];
 //   8 - cv::TrackerCSRT
 /// ---------------------------------------------------
 
-#define TRACKER_TYPE   2
+#define TRACKER_TYPE   8
 
 static Ptr<Tracker> CreateTracker(){
 #if(TRACKER_TYPE == 1)
