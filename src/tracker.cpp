@@ -32,7 +32,7 @@ char fn[1024];
 //   8 - cv::TrackerCSRT
 /// ---------------------------------------------------
 
-#define TRACKER_TYPE   8
+#define TRACKER_TYPE   2
 
 static Ptr<Tracker> CreateTracker(){
 #if(TRACKER_TYPE == 1)

@@ -1429,3 +1429,16 @@
 	<opencv2/highgui/highgui_c.h>
 	"kbhit.h"
 
+1634089266 source:/media/josemar/DEV/PROJECTS/kbhit/kbhit.c
+	"kbhit.h"
+
+1634089253 /media/josemar/DEV/PROJECTS/kbhit/kbhit.h
+	<termios.h>
+	<stdio.h>
+	<stdio_ext.h>
+	<sys/select.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<dirent.h>
+	<stdbool.h>
+
