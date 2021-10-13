@@ -8,7 +8,7 @@
 		<Build>
 			<Target title="Debug">
 				<Option output="../tracker/bin/Debug/tracker" prefix_auto="1" extension_auto="1" />
-				<Option object_output="../tracker/obj/Debug/" />
+				<Option object_output="../tracker/object/Debug/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
 				<Compiler>
@@ -72,7 +72,7 @@
 			</Target>
 			<Target title="Release">
 				<Option output="../tracker/bin/Release/tracker" prefix_auto="1" extension_auto="1" />
-				<Option object_output="../tracker/obj/Release/" />
+				<Option object_output="../tracker/object/Release/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
 				<Compiler>
